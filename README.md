@@ -1,5 +1,5 @@
 
-# StarUMLCrack
+# Crack StarUML
 
 This script is designed to remove license restrictions for **StarUML version 6.2.2**, including the removal of watermarks on exports.
 
@@ -10,8 +10,8 @@ This script is designed to remove license restrictions for **StarUML version 6.2
 
 ## Initialization
    ```bash
-   git clone git@github.com:Nother01/StarUMLCrack.git
-   cd StarUMLCrack
+   git clone git@github.com:Nother01/Crack_StarUML.git
+   cd Crack_StarUML
    chmod 755 starUML.sh
 ```   
 
