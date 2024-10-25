@@ -22,7 +22,7 @@ npm_check_and_install() {
   echo "[2] Checking if $package_name is already installed..."
   
   if ! command -v "$package_name" &> /dev/null; then
-    echo "$package_name is not installed. Installing $package_name..."
+    echo "$package_name is not installed. Installing..."
     npm install -g "$package_name" || { echo "Failed to install $package_name!"; exit 1; }
   fi
 }
@@ -61,6 +61,7 @@ check_version() {
   fi
 }
 
+# MAIN
 
 script_dir=$(pwd)
 
