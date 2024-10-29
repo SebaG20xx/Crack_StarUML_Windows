@@ -26,6 +26,7 @@ Run the script with or without specifying the path to the StarUML installation f
 	  ```
     sudo ./starUML.sh /path/to/StarUML
 	```
+
 **Output**	
 ```
 StarUML directory provided: /opt/StarUML
