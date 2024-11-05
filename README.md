@@ -6,6 +6,7 @@ This script is designed to remove license restrictions for **StarUML version 6.3
 ## Prerequisites
 1. **Node.js**  
 
+
 ## Initialization
 ```
    git clone https://github.com/SebaG20xx/Crack_StarUML_Windows.git
@@ -14,8 +15,11 @@ This script is designed to remove license restrictions for **StarUML version 6.3
 
 ## Usage
 Run the script on PowerShell as Administrator.
+
+ 1. **Run Script**:    
 	 ```
     .\starUML.ps1
+	```
 **Output**	
 ```
 StarUML directory provided: StarUML
