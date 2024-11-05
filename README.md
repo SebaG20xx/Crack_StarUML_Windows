@@ -13,16 +13,12 @@ This script is designed to remove license restrictions for **StarUML version 6.3
 ```   
 
 ## Usage
-Run the script on PowerShell as Administrator with or without specifying the path to the StarUML installation folder.
+Run the script on PowerShell as Administrator.
 
  1. **Automatic detection of the StarUML path**:    
 	 ```
     .\starUML.ps1
-	```
-2.  **With specified path**:
-	  ```
-    .\starUML.ps1 C:\Folder_of_StarUML
-	```
+
 
 **Output**	
 ```
